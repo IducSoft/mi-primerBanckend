@@ -14,7 +14,6 @@
     "telegram",
     "server"
   ],
-  "author": "isaac urdaneta",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.2",
